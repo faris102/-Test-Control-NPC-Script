@@ -1,5 +1,5 @@
 -- NPC CONTROL V2 - Main Script
--- GitHub: https://github.com/YOUR_USERNAME/npc-control-v2
+-- GitHub: https://github.com/WhatMyName/npc-control-v2
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
